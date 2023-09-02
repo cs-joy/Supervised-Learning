@@ -1,0 +1,34 @@
+- Analytical learning
+- Artificial neural network
+- Backpropagation
+- Boosting (meta-algorithm)
+- Bayesian statistics
+- Case-based reasoning
+- Decision tree learning
+- Inductive logic programming
+- Gaussian process regression
+- Genetic programming
+- Group method of data handling
+- Kernel estimators
+- Learning automata
+- Learning classifier systems
+- Learning vector quantization
+- Minimum message length (decision trees, decision graphs, etc.)
+- Multilinear subspace learning
+- Naive Bayes classifier
+- Maximum entropy classifier
+- Conditional random field
+- Nearest neighbor algorithm
+- Probably approximately correct learning (PAC) learning
+- Ripple down rules, a knowledge acquisition methodology
+- Symbolic machine learning algorithms
+- Subsymbolic machine learning algorithms
+- Support vector machines
+- Minimum complexity machines (MCM)
+- Random forests
+- Ensembles of classifiers
+- Ordinal classification
+- Data pre-processing
+- Handling imbalanced datasets
+- Statistical relational learning
+- Proaftn, a multicriteria classification algorithm
